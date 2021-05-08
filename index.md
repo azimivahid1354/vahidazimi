@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### Vahid Azimi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Vahid
++ last name : Azimi
++ Date of birth : December 19, 1975
++ I am a graduate student of software engineering
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Web programming
++ Software Engineering
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : National Industries of Iran 1374
++ Associate Degree : dpicollege 1376
++ Bachelor of science : IT Engineering dpicollege 1384
 
 ### language
 
@@ -35,15 +35,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Web programming
++ C#
++ Asp.net Core
++ SQL Server
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Daryapala Energy
 
 
 
